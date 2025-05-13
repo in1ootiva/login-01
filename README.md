@@ -5,7 +5,7 @@
 
 Um componente de tela de login minimalista e elegante, desenvolvido com HTML semântico e CSS, seguindo os princípios do Material Design do Google em tema escuro. Este projeto prioriza acessibilidade, SEO e experiência do usuário.
 
-![Preview da Tela de Login](https://via.placeholder.com/800x450/1e1e1e/bb86fc?text=Tela+de+Login+Material+Design)
+![Preview da Tela de Login](./assets/preview.png)
 
 ## 📋 Índice
 
