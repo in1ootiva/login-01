@@ -76,11 +76,6 @@ Para alterar as cores principais:
     --background: #seu-codigo-de-cor;    /* Cor de fundo da página */
     --surface: #seu-codigo-de-cor;       /* Cor de fundo do card */
 }
-
-Aqui está o arquivo README.md completo para download:
-
-```markdown project="Tela de Login Material Design" file="README.md"
-...
 ```
 
 ## ♿ Acessibilidade
