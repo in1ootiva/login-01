@@ -7,19 +7,6 @@ Um componente de tela de login minimalista e elegante, desenvolvido com HTML sem
 
 ![Preview da Tela de Login](./assets/preview.png)
 
-## 📋 Índice
-
-- [Características](#características)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Como Usar](#como-usar)
-- [Acessibilidade](#acessibilidade)
-- [SEO](#seo)
-- [Personalização](#personalização)
-- [Boas Práticas](#boas-práticas)
-- [Melhorias Futuras](#melhorias-futuras)
-- [Licença](#licença)
-
 ## ✨ Características
 
 - **Design Minimalista**: Interface limpa e focada na experiência do usuário
