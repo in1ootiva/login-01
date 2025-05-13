@@ -43,6 +43,7 @@ Um componente de tela de login minimalista e elegante, desenvolvido com HTML sem
 tela-login-material-design/
 │
 ├── index.html          # Arquivo HTML principal
+├── style.css           # Arquivo CSS principal
 └── README.md           # Documentação do projeto
 ```
 
